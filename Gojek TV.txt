@@ -1,0 +1,89 @@
+{		
+ "name": "Gojek TV",		
+ "author": "Gojek",				
+ "url": "https://bit.ly/3Adfgoz",	
+ "image": "https://img5.pic.in.th/file/secure-sv1/Remove-bg.ai_1730213083955ae6fe5c419105d3c.png",		
+ "groups": [		
+
+
+  	{		
+   "name": "Digital TV",		
+   "image": "https://img5.pic.in.th/file/secure-sv1/Remove-bg.ai_1730213009487.png",
+   "url": "https://bit.ly/3YBRko8",
+   "stations": [		
+   ]	
+  }	,	
+
+ 
+    {		
+        "name": "กีฬา",		
+        "image": "https://img2.pic.in.th/pic/Remove-bg.ai_1730213000818.png",
+        "url": "https://bit.ly/4f6rtKB",
+        "groups": [		
+                	
+   ]		
+  },		
+  	
+  {		
+   "name": "บันเทิง",		
+   "image": "https://img5.pic.in.th/file/secure-sv1/Remove-bg.ai_173021301968870b30ef77663530a.png",
+   "url": "https://bit.ly/3Uq7hLE",
+   "stations": [		
+    ]		
+  },
+  
+
+  {		
+   "name": "การ์ตูน",		
+   "image": "https://img2.pic.in.th/pic/Remove-bg.ai_17302130720053e25c1d266b8babd.png",	
+   "url": "https://bit.ly/3NGTJaP",
+   "stations": [		
+    	
+   ]		
+  },
+  
+  
+  {		
+   "name": "สาระคดี",		
+   "image": "https://img2.pic.in.th/pic/Doc-removebg-preview.png",
+   "url": "https://bit.ly/3YCE9TI",
+   "stations": [		
+    
+   ]		
+  },		
+  		
+    {		
+   "name": "หนังโรง",		
+   "image": "https://img2.pic.in.th/pic/Remove-bg.ai_1730212982278b971a52a8f1e186c.png",
+   "url": "https://docs.google.com/uc?export=download&id=13HjcS4l2QdMSKU-oHSpbVzVs3wmvz6HQ",
+   "stations": [		
+		
+   ]	
+  }	,
+
+{		
+   "name": "Radio",		
+   "image": "https://img2.pic.in.th/pic/Remove-bg.ai_1730213050531a367794fc39387e5.png",
+   "url": "https://docs.google.com/uc?export=download&id=11mkOGzQ_0tHjpyemjKnnWmDJaP-nTuTe",
+   "stations": [
+   ]	
+  }	,
+
+ ]		
+}		
+
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+  	<title>ผู้เฒ่าพเนจร</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="ผู้เฒ่าพเนจร"> 
+<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
+<body bgcolor="000000">
+<center>
+  <h2><img src="https://www.dropbox.com/scl/fi/vbyxgw2rrqcdme8t4ch08/.png?rlkey=y9eikxi47djf513c20eh6kjbz&dl=1"></h2>
+</center>
+</body>
+</html>

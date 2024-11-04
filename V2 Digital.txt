@@ -1,0 +1,69 @@
+{											
+   "name": "Digital TV",											
+   "image": "https://i.postimg.cc/0QBdW3qD/digital.png",											
+   "stations": [											
+{"name": "NBT","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png","url": "https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8", "referer": "","playInNatPlayer": "true"},
+{"name": "NBT","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png","url": "https://www.inwiptv.com/player_demo.php?channel=27189", "referer": "","playInNatPlayer": "true"},
+{"name": "3 HD","image": "https://img2.pic.in.th/pic/5ff3e.webp","url": "https://dookeela.live/live-tv/ch3hd", "referer": "","playInNatPlayer": "true"},
+{"name": "3 HD","image": "https://img2.pic.in.th/pic/5ff3e.webp","url": "https://www.inwiptv.com/player_demo.php?channel=27137", "referer": "","playInNatPlayer": "true"},
+{"name": "5 HD","image": "https://overseer.blackboxsys.net/images/png/hd-ch5.png","url": "https://dookeela.live/live-tv/ch5hd", "referer": "","playInNatPlayer": "true"},
+{"name": "5 HD","image": "https://overseer.blackboxsys.net/images/png/hd-ch5.png","url": "https://edge2a.v2h-cdn.com/tv5hd/tv5hd.stream/playlist.m3u8", "referer": "","playInNatPlayer": "true"},
+{"name": "7 HD","image": "https://www.ch7.com/xl/lg/images/Ch-7-HD-Logo-crop.png","url": "https://dookeela.live/live-tv/ch7hd", "referer": "","playInNatPlayer": "true"},
+{"name": "7 HD","image": "https://www.ch7.com/xl/lg/images/Ch-7-HD-Logo-crop.png","url": "https://edge2a.v2h-cdn.com/7hd/7hd.stream/playlist.m3u8", "referer": "","playInNatPlayer": "true"},
+{"name": "CH 8","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/1200px-Ch_8_2016.svg.png","url": "https://www.thaich8.com/live?var_link=720p", "referer": "","playInNatPlayer": "true"},
+{"name": "CH 9","image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/1200px-Ch_8_2016.svg.png","url": "https://www.inwiptv.com/player_demo.php?channel=27147", "referer": "","playInNatPlayer": "true"},
+{"name": "ALTV 4","image": "https://www.i-pic.info/i/4Bol643617.png","url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8", "referer": "","playInNatPlayer": "true"},
+{"name": "ALTV 4","image": "https://www.i-pic.info/i/4Bol643617.png","url": "https://edge2a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8", "referer": "","playInNatPlayer": "true"},
+{"name": "ไทยรัฐทีวี","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png","url": "https://dookeela.live/live-tv/thairathtv", "referer": "","playInNatPlayer": "true"},
+{"name": "ไทยรัฐทีวี","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png","url": "https://www.inwiptv.com/player_demo.php?channel=27138", "referer": "","playInNatPlayer": "true"},
+{"name": "THAI PBS","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png","url": "http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8", "referer": "","playInNatPlayer": "true"},
+{"name": "THAI PBS","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png","url": "https://www.inwiptv.com/player_demo.php?channel=27188", "referer": "","playInNatPlayer": "true"},
+{"name": "WORKPOINT","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png","url":"https://edge2a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8","url": "https://www.inwiptv.com/player_demo.php?channel=27159", "referer": "","playInNatPlayer": "true"},
+{"name": "WORKPOINT","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png","url":"https://edge2a.v2h-cdn.com/workpoint/workpoint.stream/playlist.m3u8","url": "https://www.inwiptv.com/player_demo.php?channel=27159", "referer": "","playInNatPlayer": "true"},
+{"name": "T SPORTS 7","image": "https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_320.png","url": "https://edge2a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8", "referer": "","playInNatPlayer": "true"},
+{"name": "T SPORTS 7","image": "https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_320.png","url": "https://edge2a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8", "referer": "","playInNatPlayer": "true"},
+{"name": "TPTV","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png","url": "https://edge2a.v2h-cdn.com/tptv/tptv.stream/playlist.m3u8", "referer": "","playInNatPlayer": "true"},
+{"name": "TPTV","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png","url": "https://www.inwiptv.com/player_demo.php?channel=27186", "referer": "","playInNatPlayer": "true"},
+{"name": "TRUE 4 U","image": "https://overseer.blackboxsys.net/images/png/sd-24u.png","url": "https://edge2a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8", "referer": "","playInNatPlayer": "true"},
+{"name": "TRUE 4 U","image": "https://overseer.blackboxsys.net/images/png/sd-24u.png","url": "https://true4u.com/live/", "referer": "","playInNatPlayer": "true"},
+{"name": "TNN 16","image": "https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.webp","url": "https://edge2a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8", "referer": "","playInNatPlayer": "true"},
+{"name": "TNN 16","image": "https://cms.dmpcdn.com/livetv/2023/10/02/75023d90-60f1-11ee-935a-5d4eba985103_webp_original.webp","url": "https://www.inwiptv.com/player_demo.php?channel=27179", "referer": "","playInNatPlayer": "true"},
+{"name": "JKN 18","image": "https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_320.png","url": "https://edge2a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8", "referer": "","playInNatPlayer": "true"},
+{"name": "JKN 18","image": "https://cms.dmpcdn.com/livetv/2021/06/15/3e4e0540-cdb4-11eb-9a22-7958179a38a7_320.png","url": "https://edge2a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8", "referer": "","playInNatPlayer": "true"},
+{"name": "NATION 22","image": "https://www.beartai.com/wp-content/uploads/2013/12/Nation22.png","url": "https://www.inwiptv.com/player_demo.php?channel=27162", "referer": "","playInNatPlayer": "true"},
+{"name": "NATION 22","image": "https://www.beartai.com/wp-content/uploads/2013/12/Nation22.png","url": "https://www.inwiptv.com/player_demo.php?channel=27162", "referer": "","playInNatPlayer": "true"},
+{"name": "GMM 25","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png","url": "https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/playlist.m3u8", "referer": "","playInNatPlayer": "true"},
+{"name": "GMM 25","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png","url": "https://www.inwiptv.com/player_demo.php?channel=27153", "referer": "","playInNatPlayer": "true"},
+{"name": "MONO 29 TH","image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F35a35017-8473-4953-8474-5c58d805b74a.png&w=320&h=240","url": "https://edge2a.v2h-cdn.com/mono/mono.stream/playlist.m3u8", "referer": "","playInNatPlayer": "true"},
+{"name": "MONO 29 EN","image": "https://cmsimgservices.dmpcdn.com/v1/resize?url=https%3A%2F%2Fcms.dmpcdn.com%2Flivetv%2F2019%2F01%2F10%2F35a35017-8473-4953-8474-5c58d805b74a.png&w=320&h=240","url": "https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8", "referer": "","playInNatPlayer": "true"},
+{"name": "MCOT HD 30","image": "https://cms.dmpcdn.com/livetv/2023/09/09/9cc40970-4ebe-11ee-9801-97f95b5eed9a_webp_original.webp","url": "https://www.inwiptv.com/player_demo.php?channel=27141", "referer": "","playInNatPlayer": "true"},
+{"name": "MCOT HD 30","image": "https://cms.dmpcdn.com/livetv/2023/09/09/9cc40970-4ebe-11ee-9801-97f95b5eed9a_webp_original.webp","url": "https://edge2a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8", "referer": "","playInNatPlayer": "true"},
+{"name": "ONE 31","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png","url": "https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8", "referer": "","playInNatPlayer": "true"},
+{"name": "ONE 31","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png","url": "https://www.inwiptv.com/player_demo.php?channel=27140", "referer": "","playInNatPlayer": "true"},
+{"name": "AMARIN","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png","url": "https://www.inwiptv.com/player_demo.php?channel=27135", "referer": "","playInNatPlayer": "true"},
+{"name": "AMARIN","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0017_R.png","url": "https://www.inwiptv.com/player_demo.php?channel=27135", "referer": "","playInNatPlayer": "true"},
+{"name": "PPTV","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png","url":"https://edge2a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8","url": "https://www.inwiptv.com/player_demo.php?channel=27129", "referer": "","playInNatPlayer": "true"},
+{"name": "PPTV","image": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png","url":"https://edge2a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8","url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/pptv/playlist.m3u8", "referer": "","playInNatPlayer": "true"},
+{"name": "ฟาร์มทีวี HD","image": "https://img.inwiptv.net/postor/20211007195247ฟาร์มทีวี HD.jpg","url": "https://www.inwiptv.com/player_demo.php?channel=89429", "referer": "","playInNatPlayer": "true"},
+{"name": "ถิ่นใต้","image": "https://img.inwiptv.net/postor/20200208001241ถิ่นใต้.jpg","url": "https://www.inwiptv.com/player_demo.php?channel=61235", "referer": "","playInNatPlayer": "true"},
+{"name": "แสงจันทร์","image": "https://img.inwiptv.net/postor/20210504230700แสงจันทร์.jpg","url": "https://www.inwiptv.com/player_demo.php?channel=60254", "referer": "","playInNatPlayer": "true"},
+{"name": "ไทไชโย","image": "https://sv1.picz.in.th/images/2022/10/31/vUN0Ay.png","url": "https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8", "referer": "","playInNatPlayer": "true"},
+								
+  ]											
+  }											
+
+
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
+  	<title>ผู้เฒ่าพเนจร</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="description" content="ผู้เฒ่าพเนจร"> 
+<meta http-equiv=refresh content=1;URL=https://www.google.co.th/>
+<body bgcolor="000000">
+<center>
+  <h2><img src="https://www.dropbox.com/scl/fi/vbyxgw2rrqcdme8t4ch08/.png?rlkey=y9eikxi47djf513c20eh6kjbz&dl=1"></h2>
+</center>
+</body>
+</html>
